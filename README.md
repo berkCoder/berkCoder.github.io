@@ -3,7 +3,6 @@ Hello User, we appreciate you using our app Collatz Explorer, if you have any qu
 
 
 
-
 Private Policy 
 
 Collatz Conjecture Calculator respects your privacy. This app is designed to provide a private experience without collecting any personal information.
